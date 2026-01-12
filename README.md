@@ -22,9 +22,9 @@ My hiring process is designed to find "Modern SDETs" and "Product-Minded Enginee
 ---
 
 ## 📊 Governance Tools
-* **[Capacity-Planning-Template.md](./templates/capacity-planning-template.md):** How I calculate velocity vs. headcount needs for quarterly planning.
-* **[The Modern Engineering Interview.md](./hiring/interview-structure.md):** My 4-stage process focused on Technical Density, Culture-Add, and System Design.
-* **[Onboarding-to-Autonomy.md](./hiring/onboarding-framework.md):** A 30-60-90 day plan to get new hires to "First PR in 24 hours."
+* **[Capacity-Planning-Template](./templates/capacity-planning-template.md):** How I calculate velocity vs. headcount needs for quarterly planning.
+* **[The Modern Engineering Interview](./hiring/interview-structure.md):** My 4-stage process focused on Technical Density, Culture-Add, and System Design.
+* **[Onboarding-to-Autonomy](./hiring/onboarding-framework.md):** A 30-60-90 day plan to get new hires to "First PR in 24 hours."
 
 ---
 *“A leader's legacy isn't the code they wrote, but the teams they built to write it.”*
